@@ -3,7 +3,7 @@ ffi-xattr
 
 Ruby library to manage extended file attributes.
 
-[![Build Status](https://secure.travis-ci.org/jarib/ffi-xattr.png)](http://travis-ci.org/jarib/ffi-xattr)
+[![Build Status](https://secure.travis-ci.org/toy/ffi-xattr.png)](http://travis-ci.org/toy/ffi-xattr)
 
 
 Example
